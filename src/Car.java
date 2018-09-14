@@ -1,13 +1,13 @@
 public class Car {
-    String Brand;
-    String Model;
-    int Year;
-    double Capacity;
-    Car(String Br, String Mo, int Yea, double Cap) {
+    String brand;
+    String model;
+    int year;
+    double capacity;
+    Car(String br, String mo, int yea, double cap) {
 
-        Brand=Br;
-        Model=Mo;
-        Year=Yea;
-        Capacity=Cap;
+        brand=br;
+        model=mo;
+        year=yea;
+        capacity=cap;
     }
 }
